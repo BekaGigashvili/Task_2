@@ -1,5 +1,5 @@
-first line
-second line
+removing the previous information
+doing the same for this one as well
 third line
 fourth line
 fifth line
