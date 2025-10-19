@@ -2,8 +2,8 @@ first line
 second line
 third line
 fourth line
-fifth line
-sixth line
+fifth line modifying another line
+sixth line modifying another line
 seventh line
 eighth line
 ninth line modifying
