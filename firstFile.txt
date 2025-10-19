@@ -1,5 +1,5 @@
-first line
-second line
+first line changing this line from folder2
+second line changing this line from folder2
 third line
 fourth line
 fifth line modifying another line
